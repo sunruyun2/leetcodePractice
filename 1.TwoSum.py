@@ -1,6 +1,4 @@
 # didn't test, just memory
-from re import I
-
 
 def brute_force(list,target):
     for i in range(list):
